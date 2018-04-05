@@ -1,0 +1,37 @@
+menu:
+  首页: /
+  归档: /archives
+  关于: /about
+  #订阅: /atom.xml
+
+widgets:
+- recent_posts
+- category
+- tagcloud
+- blogroll
+
+
+swift_search: true
+
+
+
+baidu_tongji: true
+
+fancybox: true
+duoshuo: false
+rss: /atom.xml
+
+#添加链接
+blogrolls:
+  - title: Ovilia
+    url: http://zhangwenli.com
+    introduce: http://zhangwenli.com
+  - title: Zee-张程
+    url: http://zcheng.ren
+    introduce: 
+  - title: Preshing on Programming 
+    url: http://preshing.com/about/ 
+    introduce: 
+  - title: redis.io 
+    url: https://redis.io/documentation 
+    introduce: 
