@@ -1,4 +1,4 @@
-### hexo-theme-yjj基于hexo-theme-light进行二次开发
+### hexo-theme-mylight 基于hexo-theme-light进行二次开发
 对hexo-theme-light主题进行个人定制:
 
 * 对menu布局进行修改
